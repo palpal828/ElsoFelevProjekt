@@ -1,0 +1,14 @@
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\bin\Debug\net8.0\BukiProjekHazi.exe
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\bin\Debug\net8.0\BukiProjekHazi.deps.json
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\bin\Debug\net8.0\BukiProjekHazi.runtimeconfig.json
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\bin\Debug\net8.0\BukiProjekHazi.dll
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\bin\Debug\net8.0\BukiProjekHazi.pdb
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\obj\Debug\net8.0\BukiProjekHazi.GeneratedMSBuildEditorConfig.editorconfig
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\obj\Debug\net8.0\BukiProjekHazi.AssemblyInfoInputs.cache
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\obj\Debug\net8.0\BukiProjekHazi.AssemblyInfo.cs
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\obj\Debug\net8.0\BukiProjekHazi.csproj.CoreCompileInputs.cache
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\obj\Debug\net8.0\BukiProjekHazi.dll
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\obj\Debug\net8.0\refint\BukiProjekHazi.dll
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\obj\Debug\net8.0\BukiProjekHazi.pdb
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\obj\Debug\net8.0\BukiProjekHazi.genruntimeconfig.cache
+D:\sulis faszság\progi\BukiProjekHazi\BukiProjekHazi\obj\Debug\net8.0\ref\BukiProjekHazi.dll
